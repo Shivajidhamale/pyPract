@@ -1,4 +1,5 @@
 #Python Program to solve Maximum Subarray Problem using Kadane’s Algorithm
+#Author='sndhanowa'
 def maxSubArray(index1,lst):
 	#print("In Func : ",lst)
 	new_lst = []
